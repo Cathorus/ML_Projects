@@ -1,4 +1,4 @@
-# ML_Projects 🧠🔥
+# Machine Learning Projects 🧠🔥
 
 Welcome to the ML_Projects repository! This repository contains some of my practice machine learning projects. The projects cover various topics, including:
 
