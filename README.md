@@ -2,12 +2,12 @@
 
 Welcome to the ML_Projects repository! This repository contains some of my practice machine learning projects. The projects cover various topics, including:
 
-- Image classification using CNNs 🖼
-- Natural language processing 💬
-- Regression 📈
-- Clustering 🗺
-- Dimensionality reduction ✂️
-- Recommendation systems 📚
+- 🖼 Image classification using CNNs
+- 💬 Natural language processing
+- 📈 Regression
+- 🗺 Clustering
+- ✂️ Dimensionality reduction
+- 📚 Recommendation systems
 
 💡 The main purpose of these projects is for me to practice and strengthen my machine learning skills. My goals with these projects are to:
 
