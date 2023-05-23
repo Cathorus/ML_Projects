@@ -14,7 +14,7 @@ Welcome to the ML_Projects repository! This repository contains some of my pract
 - 🧪 Experiment with different ML algorithms ⚙️
 - 👩‍💼 Implement models from scratch
 - 📚 Utilize popular ML libraries like scikit-learn, TensorFlow, PyTorch, etc.
-- 
+
 ## Topics Explored
 
 The projects cover a diverse range of topics, allowing me to explore various areas within machine learning, such as:
