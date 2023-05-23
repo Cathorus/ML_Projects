@@ -1,6 +1,6 @@
-# My Deep Learning Projects 🤖🧠
+# My Deep Machine Projects 🤖🧠
 
-Welcome to my deep learning project repository! 🎉 Here you will find a collection of deep learning projects that I have worked on while learning about this exciting field. 
+Welcome to my deep learning project repository! 🎉 Here you will find a collection of Machine Projects projects that I have worked on while learning about this exciting field. 
 
 ## Getting Started 🚀
 
@@ -8,11 +8,7 @@ To get started, simply click the "Open in Kaggle" button at the top of each proj
 
 ## Acknowledgements 🙏
 
-I would like to thank the creators of the various deep learning libraries and frameworks used in these projects, as well as the open-source community for their contributions. 🙌
-
-## Contributing 🤝
-
-Contributions and feedback are always welcome! If you'd like to contribute to this repository, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information. 🤝
+I would like to thank the creators of the various Machine Projects libraries and frameworks used in these projects, as well as the open-source community for their contributions. 🙌
 
 ## Contact 📧
 
